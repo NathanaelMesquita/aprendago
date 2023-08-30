@@ -45,7 +45,7 @@
 
 ### Sucesso
 
-- Qual o motivo que algumas pessoa obtem sucesso e outras não?
+- Qual o motivo que algumas pessoa obtem sucesso e outras não? teste
 - Eu quero que você obtenha sucesso com este curso, então vamos falar sobre o assunto.
 - Perguntaram a Bill Gates e Warren Buffet, independentemente, qual seria sua principal característica responsável pelo seu sucesso. A resposta de ambos foi:
 - Foco. 
