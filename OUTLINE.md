@@ -456,7 +456,7 @@
 - Solução: https://play.golang.org/p/BMYEch6_s8
 
 ### Na prática: exercício #3
-
+ 
 - Crie constantes tipadas e não-tipadas.
 - Demonstre seus valores.
 - Solução: https://play.golang.org/p/eWnKI59ual
