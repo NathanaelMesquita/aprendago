@@ -2,18 +2,18 @@ package main
 
 import "fmt"
 
-func bomDia() string {
-	return "Bom dia!"
-}
-
-func soma(a, b int) int {
-	resultado := a + b
-	return resultado
+func soma([]int) int {
+	soma := 0
+	for_, x := range []int{
+		soma += x
+	}
+	return soma
 }
 
 func main() {
+	si := {1, 2, 3, 4, 5, 5, 6, ,7 ,8 ,9}
+	
+	fmt.Println(soma(si))
 
-	fmt.Println(bomDia())
-	fmt.Println(soma(10, 12))
 
 }
